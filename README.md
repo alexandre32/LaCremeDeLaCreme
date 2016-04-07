@@ -3,3 +3,6 @@
 L’objectif est de créer un site web, permettant l'accès à des recettes de pâtisserie.
 Les recettes sont simples à réaliser, c'est-à-dire qu'elles sont composées de peu d'ingrédients ( < 5 ingrédients ).
 Chaque recette est indexée sur la page d'accueil du site, et dispose de sa propre page web.
+
+
+Une description du projet est disponible à la racine du dépot sous le nom de "Résumé du projet.pdf"
